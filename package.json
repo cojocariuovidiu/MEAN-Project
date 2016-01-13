@@ -1,0 +1,14 @@
+{
+  "name": "bookexample",
+  "version": "1.0.0",
+  "description": "A MEAN application from the book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shahshank Sabhlok",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
